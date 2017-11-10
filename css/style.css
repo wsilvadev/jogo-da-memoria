@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+background: url("../img/olho.jpg");
+}
+#container{
+    width: 1325px;
+    height: 495px;
+    border: 1px solid #111;
+    position: relative;
+    margin: 100px;
+    border-radius: 10px;
+    background: url("../img/olho.jpg");
+    box-shadow: 2px 2px 50px white;
+}
+.card{
+    width: 160px;
+    height: 240px;
+    position: absolute;
+    border-radius: 10px;
+    
+}
+.font{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border-radius: 10px;
+}
+.back{
+    background: url("../img/verso.jpg");
+}
